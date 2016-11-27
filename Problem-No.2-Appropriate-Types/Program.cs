@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_No._2_Appropriate_Types
+namespace Problem_No._2_Appropriate_Types
 {
     class Program
     {
